@@ -1,3 +1,3 @@
 # HCI_FINAL_Official
-Friendly Farmers Webapp
-Start at Home.html please wait for the page to load its assets
+Start at Home.html please wait for the page to load its assets/n
+Sign in before use for the best experience
